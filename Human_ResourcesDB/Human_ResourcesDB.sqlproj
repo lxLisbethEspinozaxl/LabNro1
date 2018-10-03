@@ -78,6 +78,7 @@
     <Build Include="dbo\Functions\trunc.sql" />
     <None Include="LabNro01\ActividadNro05.sql" />
     <None Include="LabNro01\ActividadNro06.sql" />
+    <None Include="LabNro01\Copia de ActividadNro06.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="LabNro01\ActividadNro01.sql" />
@@ -87,5 +88,6 @@
     <None Include="LabNro01\ActividadNro08.sql" />
     <None Include="LabNro01\ActividadNro09.sql" />
     <None Include="LabNro01\ActividadNro10.sql" />
+    <None Include="LabNro01\ActividadNro07.sql" />
   </ItemGroup>
 </Project>

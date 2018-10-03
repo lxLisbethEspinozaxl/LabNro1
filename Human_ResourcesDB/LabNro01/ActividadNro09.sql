@@ -10,6 +10,7 @@ Plantilla de script posterior a la implementación
 --------------------------------------------------------------------------------------
 */
 
+USE Human_ResourcesDB;
 
 /*
 
