@@ -84,5 +84,8 @@
     <None Include="LabNro01\ActividadNro02.sql" />
     <None Include="LabNro01\ActividadNro03.sql" />
     <None Include="LabNro01\ActividadNro04.sql" />
+    <None Include="LabNro01\ActividadNro08.sql" />
+    <None Include="LabNro01\ActividadNro09.sql" />
+    <None Include="LabNro01\ActividadNro10.sql" />
   </ItemGroup>
 </Project>

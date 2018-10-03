@@ -1,0 +1,9 @@
+F:\BDII\LaboratorioNro01_InfNro01\Human_ResourcesDB\bin\Debug\Human_ResourcesDB.dacpac
+F:\BDII\LaboratorioNro01_InfNro01\Human_ResourcesDB\bin\Debug\Human_ResourcesDB.dll
+F:\BDII\LaboratorioNro01_InfNro01\Human_ResourcesDB\bin\Debug\Human_ResourcesDB.pdb
+F:\BDII\LaboratorioNro01_InfNro01\Human_ResourcesDB\obj\Debug\Model.xml
+F:\BDII\LaboratorioNro01_InfNro01\Human_ResourcesDB\obj\Debug\refactor.xml
+F:\BDII\LaboratorioNro01_InfNro01\Human_ResourcesDB\obj\Debug\postdeploy.sql
+F:\BDII\LaboratorioNro01_InfNro01\Human_ResourcesDB\obj\Debug\predeploy.sql
+F:\BDII\LaboratorioNro01_InfNro01\Human_ResourcesDB\obj\Debug\Human_ResourcesDB.dll
+F:\BDII\LaboratorioNro01_InfNro01\Human_ResourcesDB\obj\Debug\Human_ResourcesDB.pdb

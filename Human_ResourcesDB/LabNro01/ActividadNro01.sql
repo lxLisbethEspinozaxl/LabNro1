@@ -9,9 +9,16 @@ Plantilla de script posterior a la implementación
                SELECT * FROM [$(TableName)]					
 --------------------------------------------------------------------------------------
 */
+
+
 SELECT last_name, job_id, salary AS Sal FROM employees; 
 go
+
+
 SELECT * FROM jobs;
 go
+
+
+
 SELECT employee_id, last_name, salary*12 'ANNUAL SALARY' FROM employees; 
 go
